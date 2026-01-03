@@ -1,0 +1,13 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="400" fill="#f8f9fa"/>
+  <rect x="50" y="50" width="700" height="300" rx="15" fill="#ffffff" stroke="#0072ce" stroke-width="2"/>
+  <circle cx="400" cy="200" r="80" fill="#e6f0ff" stroke="#0072ce" stroke-width="3"/>
+  <circle cx="400" cy="200" r="50" fill="#b3d1ff" stroke="#0059a3" stroke-width="2"/>
+  <path d="M400,150 L450,180 M400,150 L350,180 M400,250 L450,220 M400,250 L350,220" stroke="#0059a3" stroke-width="3"/>
+  <path d="M200,200 L350,200 M450,200 L600,200" stroke="#0072ce" stroke-width="4"/>
+  <circle cx="200" cy="200" r="20" fill="#80aaff" stroke="#0059a3" stroke-width="2"/>
+  <circle cx="600" cy="200" r="20" fill="#80aaff" stroke="#0059a3" stroke-width="2"/>
+  <text x="400" y="40" text-anchor="middle" font-family="Arial" font-size="24" fill="#0072ce">工业驱动解决方案</text>
+  <text x="400" y="370" text-anchor="middle" font-family="Arial" font-size="18" fill="#6b7280">Industrial Drive Solutions</text>
+  <text x="400" y="390" text-anchor="middle" font-family="Arial" font-size="16" fill="#F59E0B">Precision Motor Control</text>
+</svg>

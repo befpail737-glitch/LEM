@@ -1,0 +1,14 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="400" fill="#f8f9fa"/>
+  <rect x="50" y="50" width="700" height="300" rx="20" fill="#ffffff" stroke="#0072ce" stroke-width="3"/>
+  <path d="M100,100 L700,100 L700,300 L100,300 Z" fill="#e6f0ff" stroke="#0072ce" stroke-width="2"/>
+  <circle cx="400" cy="200" r="80" fill="#b3d1ff" stroke="#0059a3" stroke-width="3"/>
+  <circle cx="400" cy="200" r="50" fill="#80aaff" stroke="#004480" stroke-width="2"/>
+  <circle cx="400" cy="200" r="20" fill="#F59E0B" stroke="#D97706" stroke-width="2"/>
+  <path d="M200,150 L250,250 M600,150 L550,250 M300,100 L400,300 M500,100 L400,300" stroke="#0072ce" stroke-width="2" stroke-dasharray="5,5"/>
+  <circle cx="250" cy="250" r="12" fill="#10b981" stroke="#0072ce" stroke-width="2"/>
+  <circle cx="550" cy="250" r="12" fill="#10b981" stroke="#0072ce" stroke-width="2"/>
+  <text x="400" y="40" text-anchor="middle" font-family="Arial" font-size="28" fill="#0072ce" font-weight="bold">我们的位置</text>
+  <text x="400" y="370" text-anchor="middle" font-family="Arial" font-size="18" fill="#6b7280">Our Location - Hong Kong Science Park</text>
+  <text x="400" y="390" text-anchor="middle" font-family="Arial" font-size="16" fill="#F59E0B">Easy Access & Modern Facilities</text>
+</svg>

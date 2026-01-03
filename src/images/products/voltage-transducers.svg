@@ -1,0 +1,11 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="400" fill="#f8f9fa"/>
+  <rect x="50" y="100" width="700" height="200" rx="10" fill="#ffffff" stroke="#0072ce" stroke-width="2"/>
+  <path d="M200,200 L400,150 L600,200 L400,250 Z" fill="#e6f0ff" stroke="#0072ce" stroke-width="3"/>
+  <path d="M400,100 L400,300" stroke="#F59E0B" stroke-width="4" stroke-dasharray="5,5"/>
+  <circle cx="400" cy="150" r="15" fill="#F59E0B"/>
+  <circle cx="400" cy="200" r="15" fill="#F59E0B"/>
+  <circle cx="400" cy="250" r="15" fill="#F59E0B"/>
+  <text x="400" y="100" text-anchor="middle" font-family="Arial" font-size="24" fill="#0072ce">电压传感器产品</text>
+  <text x="400" y="350" text-anchor="middle" font-family="Arial" font-size="18" fill="#6b7280">LEM Voltage Transducers</text>
+</svg>

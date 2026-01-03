@@ -1,0 +1,15 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="400" fill="#f8f9fa"/>
+  <rect x="100" y="80" width="600" height="240" rx="20" fill="#ffffff" stroke="#0072ce" stroke-width="3"/>
+  <rect x="200" y="120" width="400" height="100" rx="10" fill="#e6f0ff" stroke="#0072ce" stroke-width="2"/>
+  <circle cx="250" cy="160" r="20" fill="#b3d1ff" stroke="#0059a3" stroke-width="2"/>
+  <circle cx="350" cy="160" r="20" fill="#b3d1ff" stroke="#0059a3" stroke-width="2"/>
+  <circle cx="450" cy="160" r="20" fill="#b3d1ff" stroke="#0059a3" stroke-width="2"/>
+  <circle cx="550" cy="160" r="20" fill="#b3d1ff" stroke="#0059a3" stroke-width="2"/>
+  <rect x="300" y="240" width="200" height="40" rx="5" fill="#F59E0B" stroke="#D97706" stroke-width="2"/>
+  <text x="400" y="267" text-anchor="middle" font-family="Arial" font-size="18" fill="#ffffff" font-weight="bold">技术研讨会</text>
+  <path d="M400,240 L400,230" stroke="#F59E0B" stroke-width="3"/>
+  <text x="400" y="50" text-anchor="middle" font-family="Arial" font-size="28" fill="#0072ce" font-weight="bold">技术研讨会通知</text>
+  <text x="400" y="350" text-anchor="middle" font-family="Arial" font-size="18" fill="#6b7280">Technical Workshop Announcement</text>
+  <text x="400" y="375" text-anchor="middle" font-family="Arial" font-size="16" fill="#F59E0B">Expert Knowledge Sharing</text>
+</svg>

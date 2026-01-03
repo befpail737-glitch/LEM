@@ -1,0 +1,9 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="400" fill="#f8f9fa"/>
+  <rect x="50" y="100" width="700" height="200" rx="10" fill="#ffffff" stroke="#0072ce" stroke-width="2"/>
+  <circle cx="400" cy="200" r="80" fill="#e6f0ff" stroke="#0072ce" stroke-width="3"/>
+  <circle cx="400" cy="200" r="50" fill="#b3d1ff" stroke="#0059a3" stroke-width="2"/>
+  <rect x="150" y="175" width="500" height="50" rx="25" fill="#dce8ff" stroke="#0059a3" stroke-width="2"/>
+  <text x="400" y="100" text-anchor="middle" font-family="Arial" font-size="24" fill="#0072ce">霍尔传感器产品</text>
+  <text x="400" y="350" text-anchor="middle" font-family="Arial" font-size="18" fill="#6b7280">LEM Hall Effect Current Sensors</text>
+</svg>

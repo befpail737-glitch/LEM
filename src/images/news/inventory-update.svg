@@ -1,0 +1,15 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="400" fill="#f8f9fa"/>
+  <rect x="100" y="80" width="600" height="240" rx="20" fill="#ffffff" stroke="#0072ce" stroke-width="3"/>
+  <rect x="250" y="120" width="300" height="180" fill="#e6f0ff" stroke="#0072ce" stroke-width="3"/>
+  <rect x="280" y="140" width="240" height="30" fill="#b3d1ff" stroke="#0059a3" stroke-width="2"/>
+  <rect x="280" y="180" width="200" height="30" fill="#b3d1ff" stroke="#0059a3" stroke-width="2"/>
+  <rect x="280" y="220" width="220" height="30" fill="#b3d1ff" stroke="#0059a3" stroke-width="2"/>
+  <path d="M300,145 L330,155 M300,185 L330,195 M300,225 L330,235" stroke="#0059a3" stroke-width="2"/>
+  <circle cx="520" cy="155" r="12" fill="#10b981" stroke="#0072ce" stroke-width="2"/>
+  <circle cx="500" cy="195" r="12" fill="#10b981" stroke="#0072ce" stroke-width="2"/>
+  <circle cx="510" cy="235" r="12" fill="#10b981" stroke="#0072ce" stroke-width="2"/>
+  <text x="400" y="50" text-anchor="middle" font-family="Arial" font-size="28" fill="#0072ce" font-weight="bold">库存更新通知</text>
+  <text x="400" y="350" text-anchor="middle" font-family="Arial" font-size="18" fill="#6b7280">Inventory Update Notification</text>
+  <text x="400" y="375" text-anchor="middle" font-family="Arial" font-size="16" fill="#F59E0B">Well Stocked & Ready to Ship</text>
+</svg>

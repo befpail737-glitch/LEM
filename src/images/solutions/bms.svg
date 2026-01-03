@@ -1,0 +1,15 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="400" fill="#f8f9fa"/>
+  <rect x="50" y="50" width="700" height="300" rx="15" fill="#ffffff" stroke="#0072ce" stroke-width="2"/>
+  <rect x="150" y="100" width="500" height="200" rx="10" fill="#e6f0ff" stroke="#0072ce" stroke-width="2"/>
+  <rect x="200" y="130" width="100" height="140" fill="#b3d1ff" stroke="#0059a3" stroke-width="2"/>
+  <rect x="320" y="130" width="100" height="140" fill="#b3d1ff" stroke="#0059a3" stroke-width="2"/>
+  <rect x="440" y="130" width="100" height="140" fill="#b3d1ff" stroke="#0059a3" stroke-width="2"/>
+  <circle cx="250" cy="120" r="10" fill="#F59E0B"/>
+  <circle cx="370" cy="120" r="10" fill="#F59E0B"/>
+  <circle cx="490" cy="120" r="10" fill="#F59E0B"/>
+  <path d="M250,280 L250,320 M370,280 L370,320 M490,280 L490,320" stroke="#0072ce" stroke-width="3"/>
+  <text x="400" y="40" text-anchor="middle" font-family="Arial" font-size="24" fill="#0072ce">电动汽车BMS解决方案</text>
+  <text x="400" y="370" text-anchor="middle" font-family="Arial" font-size="18" fill="#6b7280">Battery Management System Solutions</text>
+  <text x="400" y="390" text-anchor="middle" font-family="Arial" font-size="16" fill="#F59E0B">LEM Current & Voltage Sensors</text>
+</svg>
